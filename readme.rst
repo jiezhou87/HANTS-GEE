@@ -53,7 +53,7 @@ Central China Normal University, Wuhan, P.R. China
 
 Usage of the packages
 
-The manuscript on this package is under review, the source code of the package will be avaliable here after the manuscript get published.
+The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023).
 
 Usefull reference
 
