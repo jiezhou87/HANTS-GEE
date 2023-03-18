@@ -24,7 +24,7 @@ Main features:
 .. image:: figures/GUI.png
   :width: 700
   :alt: Grapical User Interface  for HANTS-GEE
-.. image:: figures/sample case.svg
+.. image:: "figures/sample case.svg"
   :width: 700
   :alt: A reconstrction case with HANTS-GEE
 
