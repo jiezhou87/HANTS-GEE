@@ -3,8 +3,6 @@ HANTS-GEE
 ====
 This repository aims to introduce the documents for `HANTS-GEE <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023), **a scalable implimentation of HANTS for time sereis reconstruction in remote sensing on Google Earth Engine platform**.
 
-/**********************************************************************
-
 The **Harmonic ANalysis of Time Series (HANTS)** was proposed by Verheof (1996) and Menenti et al. (1993)
 to reconstruct time series of remote sensing products such as NDVI and LAI.
 The algorithm had been widely used in the remote sensing community and implemented 
@@ -43,18 +41,14 @@ Attentions:
  - The maixum storage space provide by Google Drive with free account is 15 GB,
    please check your left space before exporting result.
    
-Author: Dr. Jie Zhou
 
-Email: zhou.j@ccnu.edu.cn
-
-Central China Normal University, Wuhan, P.R. China
-
-*************************************************************************/
 ****
 Usage of the packages
 ****
 
 The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023).
+
+Contact: Dr. Jie Zhou (zhou.j@ccnu.edu.cn), Central China Normal University, Wuhan, P.R. China
 
 ****
 Usefull reference
