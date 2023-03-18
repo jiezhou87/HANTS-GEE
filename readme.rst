@@ -12,10 +12,9 @@ donwloading large volume dataset to local PC and also make full use of the
 powerfull computation resource of GEE.
 
 Main features:
- - HANTS kernel 
- - Long-term (multiple years) processing for pre-defined area. Each year is
-   processed seperately with half of an year overlap.
- - processing result can be export to google drive as well as Assets for 
+ - Complete HANTS kernel implementation
+ - Scalable reconstrction tasks (spatiotemporal extent & resolution).
+ - Processing result can be export to google drive as well as Assets for 
    further analysis.
  - TO speed up the exporting and downloading, one can choose to export final 
    harmonic coefficient and then construct final image series in local PC. 
