@@ -21,12 +21,19 @@ Main features:
    further analysis.
  - TO speed up the exporting and downloading, one can choose to export final 
    harmonic coefficient and then construct final image series in local PC. 
-.. image:: figures/GUI.png
+.. figure:: figures/GUI.png
   :width: 800
   :alt: Grapical User Interface  for HANTS-GEE
-.. image:: figures/sample_case.png
+  :class: with-border
+  
+  *Figure 1. Grapical User Interface  for HANTS-GEE*
+
+.. figure:: figures/sample_case.png
   :width: 800
   :alt: A reconstrction case with HANTS-GEE
+  :class: with-border
+  
+  *Figure 2. Pixel-level time series reconstruciton with HANTS-GEE. Gray dots represent quality assessment (QA) value for observation (MODIS-NDVI: 0- Good Data, 1- Marginal Data, 2- Snow/Ice, 3- Cloudy. Red dots indicate observations identified as valid by HANTS-GEE and other observations were outliers.*
 
 Attentions:
  - If you want to export the result for large area with high spatial reolution 
