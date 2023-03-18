@@ -50,12 +50,15 @@ Email: zhou.j@ccnu.edu.cn
 Central China Normal University, Wuhan, P.R. China
 
 *************************************************************************/
-
+****
 Usage of the packages
+****
 
 The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023).
 
+****
 Usefull reference
+****
 
 [1]	Menenti, M, S Azzali, W Verhoef, and R Van Swol. 1993. “Mapping Agroecological Zones and Time Lag in Vegetation Growth by Means of Fourier Analysis of Time Series of NDVI Images.” Advances in Space Research 13 (5). Elsevier: 233–237.
 
