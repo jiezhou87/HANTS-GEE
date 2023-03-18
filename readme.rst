@@ -28,7 +28,7 @@ Main features:
   
   *Figure 1. Grapical User Interface  for HANTS-GEE*
 
-.. figure:: figures/sample_case.png
+.. figure:: figures/sample_case1.png
   :width: 800
   :alt: A reconstrction case with HANTS-GEE
   :class: with-border
