@@ -22,8 +22,11 @@ Main features:
  - TO speed up the exporting and downloading, one can choose to export final 
    harmonic coefficient and then construct final image series in local PC. 
 .. image:: figures/GUI.png
-  :width: 400
+  :width: 700
   :alt: Grapical User Interface  for HANTS-GEE
+.. image:: figures/sample case.svg
+  :width: 700
+  :alt: A reconstrction case with HANTS-GEE
 
 Attentions:
  - If you want to export the result for large area with high spatial reolution 
