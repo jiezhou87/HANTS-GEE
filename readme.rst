@@ -38,7 +38,7 @@ Attentions:
    
 Author: Dr. Jie Zhou
 
-Email:zhou.j@ccnu.edu.cn
+Email: zhou.j@ccnu.edu.cn
 
 Central China Normal University, Wuhan, P.R. China
 
@@ -60,4 +60,4 @@ Usefull reference
 
 [5]	Zhou, Jie, Li Jia, Massimo Menenti, and Xuan Liu. 2021. “Optimal Estimate of Global Biome—Specific Parameter Settings to Reconstruct NDVI Time Series with the Harmonic ANalysis of Time Series (HANTS) Method.” Remote Sensing 13 (21). Multidisciplinary Digital Publishing Institute: 4251.
 
-[6]	Zhou Jie, Massimo Menenti, Li Jia, et al. 2022. “A scalable software package for time series reconstruction of remote sensing datasets on the Google Earth Engine platform”. International Journal of Digital Earth. Under review.
+[6]	Zhou Jie, Massimo Menenti, Li Jia, et al. 2023. “A scalable software package for time series reconstruction of remote sensing datasets on the Google Earth Engine platform”. International Journal of Digital Earth. Accepted.
