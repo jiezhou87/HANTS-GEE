@@ -61,6 +61,7 @@ Usefull references
 [3]	Verhoef, W. 1996. Application of Harmonic Analysis of NDVI Time Series (HANTS). Fourier Analysis of Temporal NDVI in the Southern African and American Continents. DLO Winand Staring Centre, Wageningen, TheNetherlands.
 
 [4]	Zhou, Jie, Li Jia, and Massimo Menenti. 2015. “Reconstruction of Global MODIS NDVI Time Series: Performance of Harmonic ANalysis of Time Series (HANTS).” Remote Sensing of Environment 163. Elsevier: 217–228.
+
 [5] Zhou, Jie, Li Jia, Massimo Menenti, and Ben Gorte. 2016. “On the Performance of Remote Sensing Time Series Reconstruction Methods–A Spatial Comparison.” Remote Sensing of Environment 187: 367–384.
 
 [6]	Zhou, Jie, Li Jia, Massimo Menenti, and Xuan Liu. 2021. “Optimal Estimate of Global Biome—Specific Parameter Settings to Reconstruct NDVI Time Series with the Harmonic ANalysis of Time Series (HANTS) Method.” Remote Sensing 13 (21). Multidisciplinary Digital Publishing Institute: 4251.
