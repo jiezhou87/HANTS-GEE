@@ -30,7 +30,7 @@ Main features:
   :alt: A reconstrction case with HANTS-GEE
   :class: with-border
   
-  *Figure 2. Pixel-level time series reconstruciton with HANTS-GEE. Gray dots represent quality assessment (QA) value for observation (MODIS-NDVI: 0- Good Data, 1- Marginal Data, 2- Snow/Ice, 3- Cloudy. Red squres indicate observations identified as valid by HANTS-GEE and other observations were outliers.*
+  *Figure 2. Pixel-level time series reconstruciton with HANTS-GEE. Gray dots represent quality assessment (QA) value for observation (MODIS-NDVI: 0- Good Data, 1- Marginal Data, 2- Snow/Ice, 3- Cloudy. Red squres indicate valid observations identified by HANTS-GEE and other observations are outliers.*
 
 Attentions:
  - If you want to export the result for large area with high spatial reolution 
