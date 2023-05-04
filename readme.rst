@@ -1,7 +1,7 @@
 ====
 HANTS-GEE
 ====
-This repository aims to introduce the `HANTS-GEE <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023) package, **a scalable implimentation of HANTS for time sereis reconstruction in remote sensing on Google Earth Engine platform**.
+This repository aims to introduce the `HANTS-GEE <https://code.earthengine.google.com/86dc4ad0d1b1dd994f93a6893b3d5b10?hideCode=true>`_ (Latest update: 18/3/2023) package, **a scalable implimentation of HANTS for time sereis reconstruction in remote sensing on Google Earth Engine platform**.
 
 The **Harmonic ANalysis of Time Series (HANTS)** was proposed by Verheof (1996) and Menenti et al. (1993)
 to reconstruct time series of remote sensing products such as NDVI and LAI.
@@ -45,7 +45,7 @@ Attentions:
 Usage of the packages
 ****
 
-The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/7b30903af9632265e8f1703554897420>`_ (Latest update: 18/3/2023).
+The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/86dc4ad0d1b1dd994f93a6893b3d5b10?hideCode=true>`_ (Latest update: 18/3/2023).
 
 Contact: Dr. Jie Zhou (zhou.j@ccnu.edu.cn), Central China Normal University, Wuhan, P.R. China
 
@@ -65,4 +65,4 @@ Usefull references
 
 [6]	Zhou, Jie, Li Jia, Massimo Menenti, and Xuan Liu. 2021. “Optimal Estimate of Global Biome—Specific Parameter Settings to Reconstruct NDVI Time Series with the Harmonic ANalysis of Time Series (HANTS) Method.” Remote Sensing 13 (21). Multidisciplinary Digital Publishing Institute: 4251.
 
-[7]	Zhou Jie, Massimo Menenti, Li Jia, et al. 2023. “A scalable software package for time series reconstruction of remote sensing datasets on the Google Earth Engine platform”. International Journal of Digital Earth. Accepted.
+[7]	Zhou, J., Menenti, M., Jia, L., Gao, B., Zhao, F., Cui, Y., Xiong, X., Liu, X. and Li, D., 2023. A scalable software package for time series reconstruction of remote sensing datasets on the Google Earth Engine platform. International Journal of Digital Earth, 16(1), pp.988-1007. `https://doi.org/10.1080/17538947.2023.2192004 <https://doi.org/10.1080/17538947.2023.2192004>`_
