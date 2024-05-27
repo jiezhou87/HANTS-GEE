@@ -45,7 +45,7 @@ Attentions:
 Usage of the packages
 ****
 
-The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/5ab9bde3c258a2b9c5046c4305e76186>`_ (Latest update: 19/12/2023).
+The HANTS-GEE package is freely avaliable  `here <https://code.earthengine.google.com/fcd8dc8d40a68b3c47af140f17da5dd7>`_ (Latest update: 19/12/2023).
 
 Contact: Dr. Jie Zhou (zhou.j@ccnu.edu.cn), Central China Normal University, Wuhan, P.R. China
 
